@@ -50,7 +50,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.mohammedragabmohammedborik"
                 artifactId = "toaster"
-                version = "1.0.1"
+                version = "1.0.2"
             }
 
 
